@@ -1,0 +1,5 @@
+- The application should be able to search contacts
+- The application should be able to add new contacts
+- The application should be able to update contacts
+- The application should be able to delete contacts
+- The application should be able to merge duplicate contacts
